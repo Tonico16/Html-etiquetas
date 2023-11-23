@@ -1,6 +1,6 @@
 Las etiquetas son códigos que definen la estructura y contenido de los elementos en una página web.
 ejem:
-<h2> hola mundo</h2>
+<!--> <h2> hola mundo</h2>
 los tipos son:
 De apertura y cierre: ellos son los que acaban y conmienza casi igual solo que se le aumenta un "/" al termino 
 ejem:
